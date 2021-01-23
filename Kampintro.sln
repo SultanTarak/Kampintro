@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders2Odev6", "Ders2Odev6\De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{663864BB-F9A7-4932-A533-A82D22CB9C58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{E19D5DD8-8BDE-4178-A7D6-7294EB8CD55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{E19D5DD8-8BDE-4178-A7D6-7294EB8CD55E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{6830A09E-8005-4612-9D31-8536589E6165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{6830A09E-8005-4612-9D31-8536589E6165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4Odev5", "Ders4Odev5\Ders4Odev5.csproj", "{E6EC74FB-3292-4B61-AE27-08BDF2C2CDDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{6830A09E-8005-4612-9D31-8536589E6165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6830A09E-8005-4612-9D31-8536589E6165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6830A09E-8005-4612-9D31-8536589E6165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EC74FB-3292-4B61-AE27-08BDF2C2CDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EC74FB-3292-4B61-AE27-08BDF2C2CDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EC74FB-3292-4B61-AE27-08BDF2C2CDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EC74FB-3292-4B61-AE27-08BDF2C2CDDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
