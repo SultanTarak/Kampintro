@@ -11,7 +11,6 @@ namespace Ders4Odev5
             ogrenciler.Add(222, "Elif");
             ogrenciler.Add(333, "Ahmet");
             ogrenciler.Add(444, "Efe");
-
         }
     }
 }
